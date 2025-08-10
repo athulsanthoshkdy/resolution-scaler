@@ -70,4 +70,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Do you want me to also make this **one-paragraph GitHub short description** so it looks neat at the top of your repo before this long version? That’s the style most top repos use.
